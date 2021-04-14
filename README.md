@@ -40,9 +40,9 @@ To measure the results, I used the seven-point Likert scale for the first two pa
 For the adjective list provided to us, I modified it to not overwhelm the participant. SO it only had 16 adjective: 8 that have negative/poor connotation and 8 that had a positive connotation.
 
 **Links**
-This is the link to the survey.
-This is the screen recording of their doing the tasks on Goodreads. <p><a href="https://drive.google.com/file/d/1fsU-k4uL2_A8_3fi7ztxDTjwCGkFrux2/view?usp=sharing">LINK</a></p>
-This is the webcam recording of their facial expressions. <p><a href="https://drive.google.com/file/d/1gv2hDGntWGGw4YuqgYUqlqldOl-5y0WR/view?usp=sharing">LINK</a></p>
+This is the link to the survey <p><a href="https://forms.gle/N7PNbPWHKrYouSHE6 ">LINK</a></p>  .
+This is the screen recording of their doing the tasks on Goodreads <p><a href="https://drive.google.com/file/d/1fsU-k4uL2_A8_3fi7ztxDTjwCGkFrux2/view?usp=sharing">LINK</a></p>  .
+This is the webcam recording of their facial expressions  <p><a href="https://drive.google.com/file/d/1gv2hDGntWGGw4YuqgYUqlqldOl-5y0WR/view?usp=sharing">LINK</a></p>  .
 
 **Results and Final Thoughts**
 
