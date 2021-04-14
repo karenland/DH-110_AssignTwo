@@ -13,12 +13,9 @@ I asked the user to do 5 tasks all related to the main selling points of Goodrea
   <li>This task was to simply explore a page since there are some features that are present but “hidden”. Makeing some of the steps difficult to do. </li>
   <li>This task had the user use the search function which I’ve said is limiting (no typos and can’t search by genre or character name) as well as create a bookshelf. I asked the reader to create a bookshelf since this section does not follow the theme of the section (I.e. the aesthetics are off; nothing about it screams books). </li>
   <li> This task had the user revisit their review to see if it added any comments. This was to test their reaction towards the community aspect of the site.  </li>
-  <li> This task had the user revisit their review to see if it added any comments. This was to test their reaction towards the community aspect of the site.  </li>
- <li> This was the ending task. The log out function takes a bit of effort to find as well as the log out itself does not match the style of the app that well. </li>
-
+ <li> This was the ending task so they had tolog out. The log out function takes a bit of effort to find as well as the log out itself does not match the style of the app that well. </li>
 
 </ol>
-
 
 
 **Methodology**
@@ -27,13 +24,28 @@ With the final project in mind, I decided to use someone on the other end of the
 
 The particpant used an iPad to complete the tasks and their facial expressions were being recorded using front webcam of a laptop provided. The study was done in the bedroom in a reclining chair so that they would be as comfortable as they can be in hopes that they would feel at ease to speak outloud more. 
 
-I constructed the survey to match how it was laid out in the assignment document.
-
+I constructed the survey to match how it was laid out in the assignment document:
+<ol>
+  
+  <li>Intro/Script </li>
+  <li>Consent Form </li>
+  <li>Previous Goodreads App/Brand Experience questions </li>
+  <li>Pre-Test Questionnaire </li>
+  <li>Tasks and Scenarios </li>
+  <li>Post-Test Questionnaires (1, 2 , 3) </li>
+  <li>Demographics  </li>
+ </ol>
+ 
 To measure the results, I used the seven-point Likert scale for the first two parts of the questionaire as provuded in the assignment document. 
+For the adjective list provided to us, I modified it to not overwhelm the participant. SO it only had 16 adjective: 8 that have negative/poor connotation and 8 that had a positive connotation.
 
 **Links**
+This is the link to the survey.
+This is the screen recording of their doing the tasks on Goodreads. <p><a href="https://drive.google.com/file/d/1fsU-k4uL2_A8_3fi7ztxDTjwCGkFrux2/view?usp=sharing">LINK</a></p>
+This is the webcam recording of their facial expressions. <p><a href="https://drive.google.com/file/d/1gv2hDGntWGGw4YuqgYUqlqldOl-5y0WR/view?usp=sharing">LINK</a></p>
 
 **Results and Final Thoughts**
+
 The partipant did not struggle very much with the tasks. THey told me they could not complete two steps from Task Two but they in fact did complete one of the two. The second tasks asked the user to enlarge the book cover of the bpok they were viewing in hopes htey woudl see how blurry the image is. They were able to enlarge the cover but they did not think they did. So that was my mistake. I should have been more clear. However, for the third step, it asked the user to organize the reviews of the same book so that the only reviews it would show were 3-star reviews. They did not know how to do this step even though they explored the page the best they could have.
 
 
