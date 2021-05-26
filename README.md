@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Goodreads is a popular website and phone application for book readers to write and read book reviews, create lists of books, search for authors, join book clubs as well as various other book-related tasks, and create a year-long reading goal. One of the main goals Goodreads has is to build a sense of community among book readers. 
+Goodreads is a popular website and phone application for book readers to write and read book reviews, create lists of books, search for authors, join book clubs and create a year-long reading goal, as well as various other book-related tasks. However, one of the main goals Goodreads has is to build a sense of community among book readers. 
 
 
 The heuristic evaluation I did on Goodreads concluded with some severe concerns I had for the app. One of them being that it is difficult to create a sense of camaraderie since there is no easy way to socialize with others, another is simply the aesthetics of the application in particular is quite outdated and bare for a brand so old, and lastly, it does not seem intuitive becuase possible actions are not labelled as well as the app does not have a good recongization system in place (i.e. cannot handle typos in the search bar).
