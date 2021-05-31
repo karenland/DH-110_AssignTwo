@@ -37,7 +37,7 @@ I constructed the survey to match how it was laid out in the assignment document
  </ol>
  
 To measure the results, I used the seven-point Likert scale for the first two parts of the questionaire as provuded in the assignment document. 
-For the adjective list provided to us, I modified it to not overwhelm the participant. SO it only had 16 adjective: 8 that have negative/poor connotation and 8 that had a positive connotation.
+For the adjective list provided to us, I modified it to not overwhelm the participant. So it only had 16 adjective: 8 that have negative/poor connotation and 8 that had a positive connotation.
 
 **Links**
 This is the link to the survey <p><a href="https://forms.gle/N7PNbPWHKrYouSHE6 ">LINK</a></p>  .
